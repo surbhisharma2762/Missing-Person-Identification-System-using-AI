@@ -1,8 +1,8 @@
-# Missing-Person-Identification-System-using-AI
+# Missing Person Identification System using AI
 Smart AI system for missing person identification using face recognition and machine learning
 # 🚀 Missing Person Identification System
 
-AI-powered missing person identification system using facial recognition, computer vision, and machine learning.
+AI-powered missing person identification system using facial recognition, computer vision and machine learning.
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-WebApp-red)
@@ -15,7 +15,7 @@ AI-powered missing person identification system using facial recognition, comput
 
 # 📌 Overview
 
-This project helps identify missing persons using AI-based facial recognition.
+This project helps identify missing persons using AI based facial recognition.
 
 The system allows:
 
@@ -43,7 +43,7 @@ The project uses:
 ✅ Public Sighting Portal
 ✅ Interactive Dashboard
 ✅ India Case Map Visualization
-✅ Role-Based Login System
+✅ Role Based Login System
 ✅ Email Notifications
 ✅ SQLite Database Integration
 
@@ -57,7 +57,7 @@ The project uses:
 | Streamlit    | Frontend web application             |
 | MediaPipe    | Face detection & landmark extraction |
 | OpenCV       | Image/video processing               |
-| scikit-learn | KNN face matching                    |
+| scikit learn | KNN face matching                    |
 | SQLite       | Database                             |
 | Folium       | Interactive maps                     |
 | bcrypt       | Password hashing/security            |
@@ -95,7 +95,7 @@ Finding-missing-person-using-AI/
 
 ```bash
 git clone https://github.com/your-username/Finding-missing-person-using-AI.git
-cd Finding-missing-person-using-AI
+cd Finding missing person using AI
 ```
 
 ---
@@ -150,20 +150,6 @@ Add users inside:
 login_config.yml
 ```
 
-Example:
-
-```yaml
-credentials:
-  usernames:
-    admin:
-      email: admin@example.com
-      name: Admin User
-      city: Delhi
-      area: Sector 1
-      role: Admin
-      password: '$2b$12$hashedpassword'
-```
-
 ---
 
 # 🖼️ Where Image Processing is Used
@@ -202,9 +188,9 @@ Dashboard Visualization
 
 * Deep Learning Face Embeddings
 * Mobile Application
-* Real-Time CCTV Integration
+* Real Time CCTV Integration
 * Cloud Database
-* Multi-language Support
+* Multi language Support
 * Advanced Analytics Dashboard
 
 ---
@@ -222,23 +208,3 @@ Contributions are welcome!
 5. Push to your fork
 6. Create a Pull Request
 
----
-
-# 📜 License
-
-This project is licensed under the MIT License.
-
----
-
-# 👨‍💻 Author
-
-Developed by **Your Name**
-
-* GitHub: your-github-profile
-* LinkedIn: your-linkedin-profile
-
----
-
-# ⭐ Support
-
-If you found this project helpful, please ⭐ star the repository.
